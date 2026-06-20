@@ -57,9 +57,9 @@ FireSmoke-FL/
 
 This repository was evaluated using:
 
-Indoor Fire Smoke Dataset (Roboflow Universe)
+Indoor Fire Smoke Dataset, https://universe.roboflow.com/firedet-uk6sb/indoor-fire-smoke-eqopn
 
-https://universe.roboflow.com/firedet-uk6sb/indoor-fire-smoke-eqopn
+Fire and smoke detection dataset, https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia 
 
 The framework also supports additional fire and smoke datasets exported in YOLO format.
 
